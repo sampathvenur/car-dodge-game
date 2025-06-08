@@ -1,2 +1,2 @@
-# Zombie-Road
-“Zombie Road” – Retro Top-Down Dodging Game
+# car-dodge-game
+A car dodging game on a road, where the player controls a car and dodges incoming obstacles.
